@@ -148,7 +148,7 @@ I don't just do 'software', but also the business, legal, social and startup iss
 
 I'm a problem solver. Give me a problem and throw me in the deep end. You don't have to keep checking on me. I'll find a way out. I'll either solve the problem or provide you with the necessary information to make an informed decision.
 
-I keep myself busy. You can see from my work history that, if not employed, I always have a side project happening. But don't let that deter you. I'm always willing to re-prioritise my projects for the right opportunity.
+I keep myself busy. You can see from my work history that, if not employed, I always have a side project happening. But don't let that deter you. I'm always willing to shuffle my priorities for the right opportunity.
 
 Thank you for reading.
 
