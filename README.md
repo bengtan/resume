@@ -22,7 +22,7 @@ Working from home since 2008.
 
 * Excellent at written communications
 * Self-modifying and continuously learns new technologies.
-* Extremely good at debugging hard problems (especially those from the field)
+* Good at debugging hard problems (especially those from the field)
 * Legal issues around open source and software licensing
 
 
@@ -147,6 +147,8 @@ I'm a creative thinker who is able to take a multi-disciplinary approach to solv
 I don't just do 'software', but also the business, legal, social and startup issues around software. (I'm well-read on startup literature.)
 
 I'm a problem solver. Give me a problem and throw me in the deep end. You don't have to keep checking on me. I'll find a way out. I'll either solve the problem or provide you with the necessary information to make an informed decision.
+
+I'm good at debugging hard problems. Especially the ones that no one else wants to do.
 
 I keep myself busy. You can see from my work history that, if not employed, I always have a side project happening. But don't let that deter you. I'm always willing to shuffle my priorities for the right opportunity.
 
